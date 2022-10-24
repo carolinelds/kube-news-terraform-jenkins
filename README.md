@@ -1,7 +1,7 @@
 # Projeto Kube-news
 
 ### Sobre o projeto
-O projeto é um simples blog e tem como objetivo ser um exemplo para a criação de cluster Kubernetes na nuvem utilizando Terraform.
+O projeto é um simples blog e tem como objetivo ser um exemplo para a criação de cluster Kubernetes na nuvem utilizando Terraform, bem como a configuração de uma pipeline de CI/CD via Jenkins.
 
 ### Instruções para subir no DigitalOcean
 
